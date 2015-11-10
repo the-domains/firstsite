@@ -1,0 +1,23 @@
+name: firstsite
+favicon: null
+layout_spectrum: 0.866320998640731
+typography_spectrum: 0.5078342959750444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7205492681823671
+  lightness: 0.9130329261533916
+  saturation: 0.9458651007153094
+  rhythmicContrast: 0.3313966812565923
+purpose: []
