@@ -1,7 +1,7 @@
 name: firstsite
 favicon: null
-layout_spectrum: 0.866320998640731
-typography_spectrum: 0.5078342959750444
+layout_spectrum: 1
+typography_spectrum: 0.506
 cta:
   domain: null
   bucket: null
