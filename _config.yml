@@ -2,6 +2,7 @@ name: firstsite
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.506
+title: "Acadiana School of the Arts is Lafayette, LA's premier school for music lessons."
 cta:
   domain: null
   bucket: null
