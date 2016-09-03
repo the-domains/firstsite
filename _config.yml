@@ -1,20 +1,4 @@
-name: firstsite
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.506
-title: "Acadiana School of the Arts is Lafayette, LA's premier school for music lessons."
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#913494'
@@ -26,4 +10,22 @@ color:
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ASArts
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: >-
+  Acadiana School of the Arts is Lafayette, LA's premier school for music
+  lessons.
 purpose: []
